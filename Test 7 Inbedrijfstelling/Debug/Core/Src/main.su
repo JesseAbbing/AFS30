@@ -1,0 +1,9 @@
+../Core/Src/main.c:69:6:selectI2CChannel	32	static
+../Core/Src/main.c:74:10:readADS1115	40	static
+../Core/Src/main.c:106:7:adc_to_percentage	24	static
+../Core/Src/main.c:121:6:Inbedrijfstelling	8	static
+../Core/Src/main.c:143:5:main	24	static
+../Core/Src/main.c:207:6:SystemClock_Config	88	static
+../Core/Src/main.c:254:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:288:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:338:6:Error_Handler	4	static,ignoring_inline_asm

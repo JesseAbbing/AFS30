@@ -1,0 +1,5 @@
+../Core/Src/main.c:12:6:HAL_UART_RxCpltCallback	24	static
+../Core/Src/main.c:26:6:MX_UART5_Init	8	static
+../Core/Src/main.c:43:5:main	8	static
+../Core/Src/main.c:66:6:SystemClock_Config	88	static
+../Core/Src/main.c:102:6:Error_Handler	4	static

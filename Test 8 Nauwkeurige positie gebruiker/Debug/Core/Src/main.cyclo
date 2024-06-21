@@ -1,0 +1,14 @@
+../Core/Src/main.c:76:6:selectI2CChannel	1
+../Core/Src/main.c:81:10:readADS1115	5
+../Core/Src/main.c:113:7:adc_to_percentage	3
+../Core/Src/main.c:128:6:set_motor_position	3
+../Core/Src/main.c:147:6:Receive_Number_Gebruiker	3
+../Core/Src/main.c:170:6:Transmit_Current_Position	1
+../Core/Src/main.c:177:6:UART5_Transmit	1
+../Core/Src/main.c:182:6:send_position_to_esp32	1
+../Core/Src/main.c:198:5:main	5
+../Core/Src/main.c:273:6:SystemClock_Config	3
+../Core/Src/main.c:320:13:MX_I2C1_Init	2
+../Core/Src/main.c:354:13:MX_UART5_Init	2
+../Core/Src/main.c:387:13:MX_GPIO_Init	1
+../Core/Src/main.c:420:6:Error_Handler	1
